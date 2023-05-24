@@ -1,5 +1,5 @@
 [submodule "themes/paper"]
-	path = themes/paper
+	path = themes/hugo-paper
 	url = git@github.com:nanxiaobei/hugo-paper.git
 [submodule "themes/hugo-tania"]
 	path = themes/hugo-tania
