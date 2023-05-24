@@ -20,6 +20,7 @@ git commit -m "$COMMIT_MESSAGE"
 
 # # 推送到远程分支
 git push $GIT_REPO $GIT_BRANCH -f
+git push
 
 # 设置作者信息
 # git config user.name $GIT_USERNAME
