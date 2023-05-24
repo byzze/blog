@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Byzze</title>
+    <link>https://byzze.github.io/categories/math/</link>
+    <description>Recent content in math on Byzze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://byzze.github.io/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>minikube install</title>
+      <link>https://byzze.github.io/post/minikube/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://byzze.github.io/post/minikube/</guid>
+      <description>安装kubectl 在 Linux 系统中安装并设置 kubectl | Kubernetes
+安装minikube 官方教程:minikube start | minikube (k8s.io) 简书教程：https://www.jianshu.com/p/2eb952ffe89b 使用国内镜像:Minikube 一键开启国内镜像加速 (xintech.co)
+启动命令
+1 2 3 4 5 6 7 8 9 10 minikube start --driver=docker --container-runtime=containerd --image-mirror-country=cn # 国外服务器 minikube start # 使用阿里云版本时，指定国内源 minikube start --image-mirror-country=cn # 使用阿里云版本时，指定镜像源 minikube start --image-mirror=registry.cn-hangzhou.aliyuncs.com/google_containers 1 2 3 Minikube 一键开启国内镜像加速:https://blog.xintech.co/minikube-yi-jian-kai-qi-guo-nei-jing-xiang-jia-su/ Minikube didnt start:https://github.com/kubernetes/minikube/issues/14477 minikube轻松搭建一个:https://colobu.com/2022/06/02/setup-a-k8s-cluster-with-minikube/ 创建镜像使用阿里云，官方教程拉取会失败 Kubernetes 环境搭建：https://www.cnblogs.com/cjsblog/p/11877014.html 指定镜像启动pod：kubectl create deployment hello-minikube --image=registry.cn-hangzhou.aliyuncs.com/google_containers/echoserver:1.10 查看插件：minikube addons list 使用某个插件：minikube addons enable ingress</description>
+    </item>
+    
+  </channel>
+</rss>
