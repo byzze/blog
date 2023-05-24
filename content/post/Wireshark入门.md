@@ -1,7 +1,10 @@
 ---
-title: "Wireshark入门"
-date: 2023-05-24T16:20:35+08:00
-# draft: true
+title: Wireshark入门
+date: 2023-05-24
+description: "Wireshark入门"
+categories:
+- math
+katex: true
 ---
 # 入门记录
 
