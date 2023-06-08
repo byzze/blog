@@ -1,5 +1,5 @@
 ---
-title: linux 命令记录 🙈
+title: Linux 命令记录 🙈
 categories:
 - syntax
 date: 2023-01-13

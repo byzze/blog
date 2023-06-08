@@ -1,1 +1,1 @@
-Here is a example blog.
+Here is a byzze blog.

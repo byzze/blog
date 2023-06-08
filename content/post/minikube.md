@@ -1,5 +1,5 @@
 ---
-title: minikube install
+title: Minikube 安装过程
 date: 2023-01-13
 description: "记录安装过程"
 categories:

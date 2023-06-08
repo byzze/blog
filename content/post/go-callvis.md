@@ -1,8 +1,8 @@
 ---
 author: "Byzze"
-title: "go-callvis Go代码调用链路可视化工具"
+title: "Go-callvis Go代码调用链路可视化工具"
 date: "2023-05-04"
-description: "go-callvis工具使用教程"
+description: "Go-callvis工具使用教程"
 tags:
 - markdown
 - text
