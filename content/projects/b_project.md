@@ -1,10 +1,10 @@
 ---
-title: "gotool"
+title: "handy-translate"
 date: 2023-01-13
-description: new start gotool
+description: 简单-翻译小工具
 weight: 1
-link: https://github.com/byzze/go_tool
-repo: https://github.com/byzze/go_tool
+link: https://github.com/byzze/handy-translate
+repo: https://github.com/byzze/handy-translate
 icon: 📝
 ---
 
